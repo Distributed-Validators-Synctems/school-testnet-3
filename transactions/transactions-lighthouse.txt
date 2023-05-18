@@ -1,0 +1,33 @@
+Phase-3: Transactions (max 30 points)
+
+    Send 1atom to DVS validator
+    
+    https://explorer.vbloher.com/dvs-school-testnet-3/tx/0EC65140BA2943F4EFF0A987D4E3E39B60727DB6129C77D3ED2B8D8ABED0A8FC
+
+5 points =  5000 atom for everyone who do this task.
+
+    Delegate some DVS to others and redelegate to DVS validator
+    (заделегировал, затем переделегировал - 2 транзакции)
+    https://explorer.vbloher.com/dvs-school-testnet-3/tx/3E49CF585AAABB37E2DB12058566DE3B4D672E7A709E9D6C4D7879F93A2F79B5
+    https://explorer.vbloher.com/dvs-school-testnet-3/tx/3DFE85B165B5137A144481EFA201B0CEC49015E435E56D782E898E179CF2E5D1
+
+10 points =  10000 atom for everyone who do this task.
+
+    Claim reward \ commision and redelegate to DVS validator
+    https://explorer.vbloher.com/dvs-school-testnet-3/tx/4C431711C44788ED76D3084A7E4B5677DE8CFB3CFC55C5D0B5C5AFDE8DA451A9
+
+5 points =  5000 atom for everyone do this task.
+
+    Tweet url linked in a memo (Come up with something cool to say about DVS Validator School and experience in Testnet)
+
+	https://explorer.vbloher.com/dvs-school-testnet-3/tx/3EA24B829669625A0E680A55F61D98B5E238434EBD0D637CB7D697F5CA902C9C
+	
+	
+!!!!!!Send one transaction to two addresses at once and provide txHash
+
+	max 5 points =  5000 atom.
+	(в одной сделал Send -> 3 atom на 8 счетов, затем заделегировал на 9 валидаторов в нашей сети)
+	https://explorer.vbloher.com/dvs-school-testnet-3/tx/90495DCFB3B3F0DC28EB04DDBA0CB6CBE34DAA2736BE826C4ECFB99B3E40242C
+	https://explorer.vbloher.com/dvs-school-testnet-3/tx/14F001D81168619B3CD1C9BF45D44F0325151E58426EECC49A73BBF5639D4E99
+	
+	
