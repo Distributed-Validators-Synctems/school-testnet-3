@@ -30,14 +30,14 @@
 
 | Validator      | Uptime > 90% | Never jailed | Tech contributions | One TX, many messages |
 |----------------|:------------:|:------------:|:------------------:|:---------------------:|
-| dim_st         |      +       |      +       |                    |           +           |
-| nomadnode      |      +       |      +       |                    |                       |
-| c.construction |      +       |      +       |                    |           +           |
-| schnellreich   |      +       |      +       |                    |           +           |
-| nodehound      |      +       |      +       |                    |           +           |
-| SkyG           |      +       |      +       |                    |           +           |
-| LIGHTHOUSE     |      +       |      +       |                    |           +           |
-| BlvckStake     |      +       |      +       |         +          |           +           |
+| dim_st         |  + (100.0)   |      +       |                    |           +           |
+| nomadnode      |  + (99.84)   |      +       |                    |                       |
+| c.construction |  + (96.67)   |      +       |                    |           +           |
+| schnellreich   |  + (96.66)   |      +       |                    |           +           |
+| nodehound      |  + (100.0)   |      +       |                    |           +           |
+| SkyG           |  + (99.97)   |      +       |                    |           +           |
+| LIGHTHOUSE     |  + (100.0)   |      +       |                    |           +           |
+| BlvckStake     |  + (100.0)   |      +       |         +          |           +           |
 
 ### Summary
 
